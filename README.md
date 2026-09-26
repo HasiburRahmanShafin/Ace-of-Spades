@@ -8,8 +8,7 @@
 
 [![Domain](https://img.shields.io/badge/Domain-E--Commerce%20%2F%20SME%20Dashboard-blue?style=for-the-badge)](/)
 [![Event](https://img.shields.io/badge/Event-Infinity%20AI%20BuildFest%202026-purple?style=for-the-badge)](https://cloudcampbd.com)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge)](/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge)]
 
 [🚀 Live Demo](#) &nbsp;·&nbsp; [📹 Demo Video](#) &nbsp;·&nbsp; [📖 Documentation](./docs/) &nbsp;·&nbsp; [🎯 Why This Project](./docs/WHY_WE_CHOSE_THIS.md)
 
@@ -217,7 +216,7 @@ ollama pull nomic-embed-text
 
 ## 📄 License
 
-MIT License — see [LICENSE](./LICENSE) for details.
+
 
 ---
 
